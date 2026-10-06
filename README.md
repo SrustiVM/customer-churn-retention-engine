@@ -1,5 +1,6 @@
 # Customer Churn & Retention Engine
 
+Live Demo: https://customer-churn-retention-engine.onrender.com
 An end-to-end production-oriented machine learning system for predicting customer churn and converting ML predictions into actionable customer-retention decisions.
 
 The project goes beyond model training by implementing data analysis, preprocessing, model evaluation, business-oriented threshold optimization, ROI analysis, explainability, API serving, Docker containerization, automated testing, and CI/CD.
